@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ADUKKALA - AI SMART CHEF",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "A A I",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Adukkala",
+  "description": "​\"A smart and secure app to manage your kitchen and core security features effortlessly.\""
+}
